@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdanGTC
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Angular cli, Machine Learning, database and strengthening the foundations of Web development
+- 🌱 I’m currently learning React, Machine Learning, database and strengthening the foundations of Web development
 - 💞️ I’m looking to collaborate on any proyect about database or web development.
 
 <!---
